@@ -9,6 +9,7 @@ public class Day3StudentManagementSystemApplication {
     //Service-> Logic
     //Repository-> Database
     //Model-> Data Schema
+    // added schema
     public static void main(String[] args) {
         SpringApplication.run(Day3StudentManagementSystemApplication.class, args);
     }
